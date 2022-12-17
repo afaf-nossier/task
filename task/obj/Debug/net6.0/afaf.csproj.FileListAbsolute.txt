@@ -1,0 +1,15 @@
+C:\Users\Afaf Nossier\Desktop\task\bin\Debug\net6.0\afaf.exe
+C:\Users\Afaf Nossier\Desktop\task\bin\Debug\net6.0\afaf.deps.json
+C:\Users\Afaf Nossier\Desktop\task\bin\Debug\net6.0\afaf.runtimeconfig.json
+C:\Users\Afaf Nossier\Desktop\task\bin\Debug\net6.0\afaf.dll
+C:\Users\Afaf Nossier\Desktop\task\bin\Debug\net6.0\afaf.pdb
+C:\Users\Afaf Nossier\Desktop\task\obj\Debug\net6.0\afaf.csproj.AssemblyReference.cache
+C:\Users\Afaf Nossier\Desktop\task\obj\Debug\net6.0\afaf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Afaf Nossier\Desktop\task\obj\Debug\net6.0\afaf.AssemblyInfoInputs.cache
+C:\Users\Afaf Nossier\Desktop\task\obj\Debug\net6.0\afaf.AssemblyInfo.cs
+C:\Users\Afaf Nossier\Desktop\task\obj\Debug\net6.0\afaf.csproj.CoreCompileInputs.cache
+C:\Users\Afaf Nossier\Desktop\task\obj\Debug\net6.0\afaf.dll
+C:\Users\Afaf Nossier\Desktop\task\obj\Debug\net6.0\refint\afaf.dll
+C:\Users\Afaf Nossier\Desktop\task\obj\Debug\net6.0\afaf.pdb
+C:\Users\Afaf Nossier\Desktop\task\obj\Debug\net6.0\afaf.genruntimeconfig.cache
+C:\Users\Afaf Nossier\Desktop\task\obj\Debug\net6.0\ref\afaf.dll
